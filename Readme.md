@@ -36,15 +36,15 @@ The methods used in this application were:
 
 1. First, you need to have NodeJS and Yarn installed, then, to clone the project via HTTPS, run the following command:
 
-`git clone https://github.com/ildaneta/frontend-challenge`
+`git clone https://github.com/ildaneta/frontend-challenge-concepts`
 
 2. If you already have a registered SSH key, you can perform the clone via SSH through the command:
 
-`git clone git@github.com:ildaneta/frontend-challenge`
+`git clone git@github.com:ildaneta/frontend-challenge-concepts`
 
 3. After cloning, enter the cloned repository:
 
-`cd frontend-challenge`
+`cd frontend-challenge-concepts`
 
 4. After being inside the cloned repository, download the dependencies using:
 
